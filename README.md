@@ -10,3 +10,4 @@
 * git log --oneline --graph
 * git remote add origin https://github.com/FrankPillaca24/bootcamp-frontend-g14.git
 * git branch -M main
+* Tilin deja las drogas
